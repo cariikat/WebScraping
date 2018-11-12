@@ -13,7 +13,7 @@ La actividad ha sido realizada de manera individual por **Carina Miriam Zavala J
 Código fuente
 * *src/scraper__porcino.*py**: contiene el código para generar el conjunto de datos a partir de la tabla online [Info](https://info.aserca.gob.mx/Porcinos/gp_granja.asp).
 * *src/scraper__mailing.*py**: contiene el código para generar el conjunto de datos a partir de la página online [Info](https://www.entrepreneur.com/page/271758/).
-* **pdf/**: se encuentran los archivos PDFs de las prácticas de _Mailing_ y _Precios Porcinos_.
+* **pdf/**: se encuentran los archivos html de las prácticas de _Mailing_ y _Precios Porcinos_.
 * **csv/**: se encuentran los dataset de los códigos de _Mailing_ y _Precios Porcinos_.
 
 ## Recursos
