@@ -1,0 +1,38 @@
+---
+title: "Práctica1_Mailing"
+author: "Carina Miriam Zavala Juárez"
+date: "11/12/2018"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+header-includes: \usepackage[spanish]{babel}
+---
+
+## Descripción
+
+El conjunto de datos generado contiende los correos electrónicos extraídos de la página de Entrepeneur.com.
+
+## Imagen identificativa
+
+![Chamarras de piel)](/Users/carinazavala/Documents/Images/MerolSkins/Industrial_1.jpg)
+
+## Contexto
+
+Es un archivo sencillo donde se encuentran los correos electrónicos extraídos de la url propuesta con el fin de atraer a más clientes para nuevas ventas en la tienda en línea de YOTO (venta de chamarras de piel) por medio del mailing.
+
+## Contenido
+
+El contenido sólo consta de un campo:
+* **Correo**: Correo electrónico extraído.
+
+## Agradecimiento
+Mis agradecimientos son para mi hermana que es emprendedora y quiere llegar a más gente con su tienda en línea.
+
+## Inspiración 
+Este trabajo fue inspirado por los problemas que presentan lo emprendedores que empiezan una tienda en línea y no tienen una lista enorme de suscriptores para atraer nuevos clientes y generar nuevas ventas.
+
+## Licencia
+La licencia más adecuada y que cumple con nuestros propósitos es la siguiente:
+* _Released Under CC0: Public Domain License_
+
