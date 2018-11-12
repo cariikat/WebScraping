@@ -11,7 +11,7 @@ headers = [header.text for header in tablepie.find_all('th')]
 rows = []
 for row in tablepie.find_all('tr'):
     rows.append([val.text.encode('utf-8').decode('latin') for val in row.find_all('td')])
-with open('/Users/carinazavala/Documents/enpie.csv', 'wt') as f:
+with open('/Users/carinazavala/Documents/precioEnPie_porcino.csv', 'wt') as f:
     writer = csv.writer(f)
     writer.writerow(headers)
     writer.writerows(row for row in rows if row)
